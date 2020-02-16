@@ -32,3 +32,5 @@ There are seven basic styles, you can add more simply by adding this line to the
 ```
 
 ## Result
+
+![tag](tag-hugo.png)
