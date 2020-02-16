@@ -1,0 +1,49 @@
+.label {
+ border-radius:.1rem;
+ line-height:1.2;
+ padding:.1rem .2rem;
+ background:#f0f1f4;
+ color:#5b657a;
+ display:inline-block;
+}
+
+.label.label-rounded {
+ border-radius:5rem;
+ padding-left:.6rem;
+ padding-right:.6rem;
+ padding-top: 0.3rem;
+}
+
+.text-light {
+ color: #fff;
+ font-size: .8rem;
+ font-family: "Monospace", Courier New, sans-serif;
+}
+
+.tag-changed {
+ background:#315abf;
+}
+
+.tag-add {
+background: #3cb679;
+}
+
+.tag-fixed {
+ background:#986daa;
+}
+
+.tag-deprecated {
+ background:#e49866;
+}
+
+.tag-removed {
+ background:#df1f31;
+}
+
+.tag-update {
+ background:#298f9b;
+}
+
+.tag-warning {
+ background:#f3890a;
+}
